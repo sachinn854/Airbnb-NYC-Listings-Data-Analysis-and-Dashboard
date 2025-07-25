@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 .DS_Store
+AB_NYC_Cleaned.csv
+AB_NYC_2019.csv
