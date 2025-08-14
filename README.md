@@ -1,17 +1,44 @@
 <div align="center">
 
 # 🏙️ NYC Airbnb Analytics Dashboard
-### *Professional Data Analytics & Business Intelligence Platform*
+### *Professional Data---
+
+## 🌐 **Live Application**
+
+<div align="center">
+
+### 🚀 **Try the Dashboard Now!**
+
+**🔗 [**NYC Airbnb Analytics Dashboard - Live Demo**](https://airbnb-nyc-listings-data-analysis-and-dashboard.streamlit.app/)**
+
+*Interactive dashboard deployed on Streamlit Cloud - No installation required!*
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://airbnb-nyc-listings-data-analysis-and-dashboard.streamlit.app/)
+
+</div>
+
+**✨ Features Available in Live Demo:**
+- 📊 Real-time interactive analytics
+- 🗺️ Geographic visualizations with NYC map
+- 💰 Price analysis and market insights  
+- 🏠 Property filtering and comparisons
+- 📈 Executive dashboard with KPIs
+- 📱 Mobile-responsive design
+
+---
+
+## 🛠️ **Installation**alytics & Business Intelligence Platform*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.48+-red.svg)](https://streamlit.io/)
 [![Plotly](https://img.shields.io/badge/Plotly-6.3+-green.svg)](https://plotly.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
+[![Deployed](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-FF4B4B.svg)](https://airbnb-nyc-listings-data-analysis-and-dashboard.streamlit.app/)
 
 *Transform raw Airbnb data into actionable business insights with this comprehensive analytics dashboard*
 
-[🚀 **Live Demo**](#quick-start) • [📊 **Features**](#features) • [🛠️ **Installation**](#installation) • [📈 **Analytics**](#business-intelligence)
+[🚀 **Live Demo**](https://airbnb-nyc-listings-data-analysis-and-dashboard.streamlit.app/) • [📊 **Features**](#features) • [🛠️ **Installation**](#installation) • [📈 **Analytics**](#business-intelligence)
 
 ---
 
@@ -21,7 +48,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 📊 **Comprehensive Analytics**
 - **48,895+ NYC Airbnb listings** analyzed
@@ -30,13 +57,22 @@
 - **Business intelligence** ready reports
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🎯 **Professional Features**
 - **Interactive maps** with geographic clustering
 - **Statistical modeling** and correlation analysis
 - **Executive dashboards** with KPIs
 - **Export capabilities** for stakeholder reports
+
+</td>
+<td width="33%">
+
+### 🚀 **Production Deployment**
+- **Live dashboard** on Streamlit Cloud
+- **Zero-setup access** via web browser
+- **Mobile responsive** design
+- **24/7 availability** for demonstrations
 
 </td>
 </tr>
@@ -96,7 +132,16 @@ graph LR
 
 </details>
 
-### **⚡ Quick Setup**
+### **🌐 Option 1: Live Demo (Recommended)**
+
+**👆 [**Click here to access the live dashboard**](https://airbnb-nyc-listings-data-analysis-and-dashboard.streamlit.app/)**
+
+*No installation required - runs directly in your browser!*
+
+### **💻 Option 2: Local Installation**
+
+<details>
+<summary><b>🔧 Setup for Local Development</b></summary>
 
 ```bash
 # 1️⃣ Clone the repository
@@ -119,13 +164,15 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### **🎯 One-Click Launch**
+### **🎯 One-Click Local Launch**
 
 ```bash
 python run_dashboard.py
 ```
 
-**🌐 Access Dashboard:** `http://localhost:8501`
+**🌐 Local Access:** `http://localhost:8501`
+
+</details>
 
 ---
 
@@ -170,11 +217,15 @@ python run_dashboard.py
 
 <div align="center">
 
-### 📱 **Modern Interface Design**
+### 📱 **Live Application Screenshots**
 
-*Beautiful dark theme with professional analytics*
+> **🔗 [Experience the full interactive dashboard here](https://airbnb-nyc-listings-data-analysis-and-dashboard.streamlit.app/)**
+
+*Professional dark theme with comprehensive analytics*
 
 </div>
+
+**Key Dashboard Sections:**
 
 ```
 🔍 FILTERS                    📊 EXECUTIVE DASHBOARD
@@ -327,7 +378,8 @@ git push origin feature/AmazingFeature
 
 | **Resource** | **Link** |
 |--------------|----------|
-| 🐛 **Issues** | [GitHub Issues](https://github.com/sachinn854/Airbnb-NYC-Listings-Data-Analysis-and-Dashboard/issues) |
+| � **Live Demo** | [**Try Dashboard Now**](https://airbnb-nyc-listings-data-analysis-and-dashboard.streamlit.app/) |
+| �🐛 **Issues** | [GitHub Issues](https://github.com/sachinn854/Airbnb-NYC-Listings-Data-Analysis-and-Dashboard/issues) |
 | 💬 **Discussions** | [GitHub Discussions](https://github.com/sachinn854/Airbnb-NYC-Listings-Data-Analysis-and-Dashboard/discussions) |
 | 📧 **Email** | [Contact Developer](mailto:your-email@example.com) |
 | 💼 **LinkedIn** | [Professional Profile](https://linkedin.com/in/yourprofile) |
